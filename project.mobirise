@@ -222,20 +222,20 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Tutaj wstaw opis",
-                "active": true
+                "active": false
               },
               {
-                "tags": "Wrażliwe",
+                "tags": "mieszkanie dwupokojowe",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/background2.jpg",
-                "thumb": "@THEME_PATH@/components/_images/background2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/moje-mieszkanie-planner-1600x1200.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/moje-mieszkanie-planner-1600x1200-800x600.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Tutaj wstaw opis",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Twórcze",
@@ -294,8 +294,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/background7.jpg",
-                "thumb": "@THEME_PATH@/components/_images/background7.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wizualizacja-kuchnia-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wizualizacja-kuchnia-1920x1080-800x450.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -411,8 +411,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/bub-5-1600x1200.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/bub-5-1600x1200-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wizualizacja-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wizualizacja-1920x1080-800x450.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
