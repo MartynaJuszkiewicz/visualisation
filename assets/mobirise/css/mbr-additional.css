@@ -12,11 +12,11 @@ body {
 }
 .display-1 {
   font-family: 'Amatic SC', handwriting;
-  font-size: 4.25rem;
+  font-size: 5.8rem;
   font-display: swap;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 6.8rem;
+  font-size: 9.28rem;
 }
 .display-2 {
   font-family: 'Rubik', sans-serif;
@@ -36,11 +36,11 @@ body {
 }
 .display-5 {
   font-family: 'Pacifico', handwriting;
-  font-size: 1.5rem;
+  font-size: 2rem;
   font-display: swap;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 2.4rem;
+  font-size: 3.2rem;
 }
 .display-7 {
   font-family: 'Cinzel', serif;
@@ -57,9 +57,9 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 3.4rem;
-    font-size: calc( 2.1374999999999997rem + (4.25 - 2.1374999999999997) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (2.1374999999999997rem + (4.25 - 2.1374999999999997) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 4.64rem;
+    font-size: calc( 2.6799999999999997rem + (5.8 - 2.6799999999999997) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (2.6799999999999997rem + (5.8 - 2.6799999999999997) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 2.4rem;
@@ -72,9 +72,9 @@ body {
     line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.2rem;
-    font-size: calc( 1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.6rem;
+    font-size: calc( 1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -713,24 +713,16 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
-.cid-s1dKLH49mv {
-  background-image: url("../../../assets/images/wizualizacja-kuchnia.jpg");
+.cid-s1De8Wgz4D {
+  background-image: url("../../../assets/images/333-1600x1200.jpg");
 }
-.cid-s1dKLH49mv .mbr-section-subtitle {
-  letter-spacing: .2rem;
+.cid-s1De8Wgz4D .mbr-text,
+.cid-s1De8Wgz4D .mbr-section-btn {
+  color: #ffffff;
+  text-align: center;
 }
-.cid-s1dKLH49mv .media-container-column {
-  background-color: #232323;
-}
-@media (max-width: 767px) {
-  .cid-s1dKLH49mv .media-container-column {
-    padding: 1rem !important;
-  }
-}
-.cid-s1dKLH49mv H1 {
-  text-align: left;
-}
-.cid-s1dKLH49mv H3 {
+.cid-s1De8Wgz4D H1 {
+  color: #ffffff;
   text-align: center;
 }
 .cid-s1g1fycvLN {
