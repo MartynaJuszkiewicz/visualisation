@@ -2,6 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Pacifico:400&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Cinzel:400,700,900&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700&display=swap);
 
 
 
@@ -20,14 +21,14 @@ body {
 }
 .display-2 {
   font-family: 'Rubik', sans-serif;
-  font-size: 3rem;
+  font-size: 1.6rem;
   font-display: swap;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 4.8rem;
+  font-size: 2.56rem;
 }
 .display-4 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Oswald', sans-serif;
   font-size: 1rem;
   font-display: swap;
 }
@@ -62,9 +63,9 @@ body {
     line-height: calc( 1.4 * (2.6799999999999997rem + (5.8 - 2.6799999999999997) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 2.4rem;
-    font-size: calc( 1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.28rem;
+    font-size: calc( 1.21rem + (1.6 - 1.21) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.21rem + (1.6 - 1.21) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
     font-size: 0.8rem;
@@ -714,6 +715,8 @@ section.lazy-placeholder:after {
   opacity: 0.3;
 }
 .cid-s1De8Wgz4D {
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-image: url("../../../assets/images/333-1600x1200.jpg");
 }
 .cid-s1De8Wgz4D .mbr-text,
@@ -790,7 +793,15 @@ section.lazy-placeholder:after {
 .cid-s1dLbS82zF {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/mbr-1920x1281.jpg");
+  background-image: url("../../../assets/images/projektowanie-mieszkania-900x600.jpg");
+}
+.cid-s1dLbS82zF H2 {
+  color: #ffe1f2;
+  text-align: right;
+}
+.cid-s1dLbS82zF H3 {
+  color: #ffffff;
+  text-align: right;
 }
 .cid-s1dLgyidu2 {
   padding-top: 60px;
